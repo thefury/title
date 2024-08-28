@@ -1,6 +1,8 @@
 # Title
 
-`title` is a small utility that converts inpuan input stringt to title case on the command line. 
+`title` is a small utility that converts an input string to title case on the command line. 
+
+Tiny, sort of dumb, and yet more useful than I would have expected.
 
 ## Installation
 
